@@ -1,0 +1,69 @@
+# Node modules directory
+node_modules/
+
+# Environment variables file
+.env
+
+# Logs
+*.log
+logs/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# IDE/Editor folders
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.orig
+*.tmp
+*.bak
+
+
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# MacOS Finder
+*.DS_Store
+
+# npm
+package-lock.json
+yarn.lock
+
+# JetBrains IDEs
+.idea/
+
+# Miscellaneous
+*.pid
+*.seed
+*.sublime-project
+*.sublime-workspace
+*.komodoproject
+*.project
+*.classpath
+*.launch
+*.swp
+*.swo
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Next.js build output
+.next/
+
+# Nuxt.js build output
+.nuxt/
+
+# SvelteKit build output
+.svelte-kit/
+
+# TypeScript build output
+*.tsbuildinfo
